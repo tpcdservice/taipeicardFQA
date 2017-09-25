@@ -1,12 +1,8 @@
 This is the answer to "What is XYZ?".  
-\| Command \| Description \|  
-\| --- \| --- \|  
-\| git status \| List all new or modified files \|  
-\| git diff \| Show file differences that haven't been staged \|
 
-|  |  |
+
+
+| 功能 | 說明 |
 | :--- | :--- |
-|  |  |
-
-
+| `登入 / 登出` |提供登入/登出系統功能|
 
