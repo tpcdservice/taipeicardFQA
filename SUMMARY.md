@@ -1,8 +1,8 @@
 # Summary
 
-## HOME
+## 臺北卡3.0網站及虛擬卡應用系統FAQ
 
-* [Introduction](README.md)
+* [簡介](README.md)
 
 ## 會員中心
 

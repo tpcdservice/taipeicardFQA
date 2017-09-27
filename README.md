@@ -1,1 +1,6 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+### 針對臺北卡會員對臺北卡3.0 會員中心網站及市民虛擬卡應用程式系統操作時常遇到的相關問題做一說明。
+
+
+
+
+
