@@ -8,7 +8,7 @@
 
 * [Q1.臺北卡會員中心網站是在做甚麼?](hui-yuan-zhong-xin/q1.-tai-bei-qia-hui-yuan-zhong-xin-wang-zhan-shi-zai-zuo-shen-mo.md)
 * [Q2.一般會員v.s.金質會員](hui-yuan-zhong-xin/q2.-shi-ming-hui-yuan-v.s.-fei-shi-ming-hui-yuan-de-quan-li-shi-shen-mo.md)
-* [Q3.要如何成為實名會員呢?](hui-yuan-zhong-xin/q3.-yao-ru-he-cheng-wei-shi-ming-hui-yuan-ni.md)
+* [Q3.要如何成為金質會員呢?](hui-yuan-zhong-xin/q3.-yao-ru-he-cheng-wei-shi-ming-hui-yuan-ni.md)
 * [Q4.忘記密碼要怎麼辦?](hui-yuan-zhong-xin/q4.-wang-ji-zhang-hao-huo-mi-ma-yao-zen-mo-ban.md)
 * [Q5.如何享有多卡消費,單一帳戶查詢的悠遊卡服務及自動兌獎功能](hui-yuan-zhong-xin/q5.-ru-he-xiang-you-duo-qia-xiao-fei-dan-yi-zhang-hu-cha-xun-de-you-you-qia-fu-wu-ji-zi-dong-dui-jia/README.md)
   * [Q6.綁定和解除悠遊卡](hui-yuan-zhong-xin/q5.-ru-he-xiang-you-duo-qia-xiao-fei-dan-yi-zhang-hu-cha-xun-de-you-you-qia-fu-wu-ji-zi-dong-dui-jia/q6.-ding-you-ka.md)
